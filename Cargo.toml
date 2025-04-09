@@ -1,0 +1,8 @@
+[package]
+name = "applemusic_CLI"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tempfile = "3.8"
+colored = "2"
