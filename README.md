@@ -1,7 +1,7 @@
 # 🎵 TC - Terminal CurrentTrack
 
 > Apple Music에서 지금 재생 중인 곡 정보를 실시간으로 보여주는 CLI 도구  
-> ⏱️ 실시간 재생 시간까지 출력! `Rust` + `osascript` 기반
+> ⏱️ 실시간 재생 시간까지 출력 `Rust` + `osascript` 기반
 
 ---
 
@@ -13,7 +13,7 @@ cd applemusic_cli
 chmod +x install.sh
 ./install.sh
 ```
-설치 후에는 어디서든 tc 명령어로 실행 가능!
+설치 후에는 어디서든 tc 명령어로 실행 가능
 
 ## 🚀 사용 방법
 ```bash
